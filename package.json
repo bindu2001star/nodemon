@@ -1,0 +1,16 @@
+{
+  "name": "nodejs2",
+  "version": "1.0.0",
+  "description": "complete",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon app1.js",
+    "start-server": "node app1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
